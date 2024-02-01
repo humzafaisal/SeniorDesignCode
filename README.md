@@ -1,5 +1,3 @@
-<div align="center"><img width="500" alt="Screenshot 2023-06-05 at 9 14 30 AM" src="https://github.com/humzafaisal/humzafaisal.github.io/assets/134899992/77428369-69c5-45d2-a506-78a5175b56b1"></div>
-
 <h3 align="center">Senior Design Project (Change title and project image)</h3>
 
 <p align="center">
